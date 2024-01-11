@@ -1,0 +1,13 @@
+.card img {
+  aspect-ratio: 1/1;
+  object-fit: cover;
+}
+
+.card-title,
+.card-subtitle {
+  /* text-wrap: wrap;
+  overflow: hidden;
+  white-space: 1;
+  text-overflow: ellipsis; */
+  font-size: 10pt;
+}
